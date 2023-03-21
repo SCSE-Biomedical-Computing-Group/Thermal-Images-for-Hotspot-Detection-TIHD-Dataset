@@ -12,4 +12,6 @@ The subject of the images in this dataset are different shaped aluminium metal s
 
 The dimensions of each image in the dataset is 1280x1024, and each image is a heatmap.
 
+For getting access to the dataset please fill up the short form at https://forms.gle/YAXsR2A5PeQzX1H16.
+
 For any questions, contact Shreyas Goyal at shreyas007@e.ntu.edu.sg
